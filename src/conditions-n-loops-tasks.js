@@ -369,8 +369,8 @@ function getBalanceIndex(arr) {
  *          [10, 9,  8,  7]
  *        ]
  */
-function getSpiralMatrix(size) {
-  
+function getSpiralMatrix(/* size */) {
+  throw new Error('Not implemented');
 }
 
 /**
